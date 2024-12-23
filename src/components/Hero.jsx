@@ -16,8 +16,8 @@ const container = (delay) => ({
 
 const Hero = () => {
   return (
-    <div className=" flex items-center justify-center gap-5 w-full my-8 ">
-      <div className=" text-white ml-12 w-1/2">
+    <div className=" flex items-center justify-center gap-5 w-full my-4 ">
+      <div className=" text-white ml-9 w-1/2">
         <motion.h3
           variants={container(0)}
           initial="hidden"

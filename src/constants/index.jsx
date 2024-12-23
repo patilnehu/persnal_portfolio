@@ -22,7 +22,7 @@ export const PROJECTS = [
   },
   {
     title: "Netflix Home Page -Clone",
-    image: Netflix.png,
+    // image: Netflix.png,
     description:
       "A clone of the Netflix home page, built using Html, CSS, Javascript.",
     technologies: ["HTML", "CSS", "Javascript"],
