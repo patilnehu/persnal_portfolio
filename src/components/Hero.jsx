@@ -4,6 +4,7 @@ import { FaInstagram } from "react-icons/fa";
 import { FaLinkedinIn } from "react-icons/fa6";
 import { IoLogoGithub } from "react-icons/io";
 import { motion } from "framer-motion";
+import NehaProfilePic from "../assets/projects/NehaProfilePic.jpg"
 
 const container = (delay) => ({
   hidden: { x: -100, opacity: 0 },
@@ -17,7 +18,7 @@ const container = (delay) => ({
 const Hero = () => {
   return (
     <div className=" flex items-center justify-center gap-5 w-full my-4 ">
-      <div className=" text-white ml-9 w-1/2">
+      <div className=" text-white ml-2 w-1/2">
         <motion.h3
           variants={container(0)}
           initial="hidden"
@@ -32,7 +33,7 @@ const Hero = () => {
           animate="visible"
           className=" pt-4 leading-normal "
         >
-          <h1 className="text-7xl">
+          <h1 className="text-6xl">
             Hi, I'm{" "}
             <span className=" bg-gradient-to-r from-pink-400 via-slate-400 to-purple-500 bg-clip-text text-purple-300 ">
               Neha Arun Patil
@@ -46,7 +47,7 @@ const Hero = () => {
               ]}
               wrapper="span"
               speed={50}
-              className="inline-block "
+              className="inline-block"
               repeat={Infinity}
             />
           </h1>
@@ -80,7 +81,7 @@ const Hero = () => {
             className="flex space-x-4 mt-6"
           >
             <a
-              href="#"
+              href="https://www.instagram.com/nehuu_102?igsh=ZDRudHVjb2F1eTF3"
               className="bg-gray-800 hover:bg-gray-700 rounded-full p-3"
               aria-label="Instagram"
             >
@@ -89,7 +90,7 @@ const Hero = () => {
               </div>
             </a>
             <a
-              href="linkedin.com/in/neha-patil-8440542b7"
+              href="https://www.linkedin.com/in/neha-patil-8440542b7/"
               className="bg-gray-800 hover:bg-gray-700 rounded-full p-3"
               aria-label="LinkedIn"
             >
@@ -109,12 +110,12 @@ const Hero = () => {
           </motion.div>
         </div>
       </div>
-      <div className=" ml-12 flex items-center justify-center ">
+      <div className=" ml-10 flex items-center justify-center w-1/2 ">
         <motion.img
           initial={{ x: 100, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 1, delay: 1.7 }}
-          src="https://images.pexels.com/photos/10064224/pexels-photo-10064224.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          src={NehaProfilePic}
           className=" w-2/3 rounded-xl "
         />
       </div>

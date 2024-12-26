@@ -18,8 +18,8 @@ const Contact = () => {
           transition={{ duration: 1 }}
           className="my-4"
         >
-          {" "}
-          61, Vrundavan Niwas, Navnath Mandir, Badlapur West. 421503
+          {" 61, Vrundavan Niwas,  Navnath Mandir, Badlapur West. 421503"}
+          
         </motion.p>
         <motion.p
           whileInView={{ opacity: 1, x: 0 }}
@@ -27,7 +27,7 @@ const Contact = () => {
           transition={{ duration: 1 }}
           className="my-4"
         >
-          +918087181226
+          +91 80871 81226
         </motion.p>
         <a href="" className="border-b ">
           {" dev.nehapatil@gmail.com"}
