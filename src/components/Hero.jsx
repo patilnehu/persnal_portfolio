@@ -4,7 +4,7 @@ import { FaInstagram } from "react-icons/fa";
 import { FaLinkedinIn } from "react-icons/fa6";
 import { IoLogoGithub } from "react-icons/io";
 import { motion } from "framer-motion";
-import NehaProfilePic from "../assets/projects/NehaProfilePic.jpg"
+import NehaProfilePic from "../assets/projects/NehaProfilePic.jpg";
 
 const container = (delay) => ({
   hidden: { x: -100, opacity: 0 },
