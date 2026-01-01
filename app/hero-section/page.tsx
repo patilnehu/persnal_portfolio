@@ -51,7 +51,7 @@ export default function HeroSection() {
             className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto"
             variants={itemVariants}
           >
-            Frontend Developer passionate about creating beautiful and
+            Junior Frontend Developer passionate about creating beautiful and
             functional web experiences
           </motion.p>
           <motion.div
@@ -66,7 +66,7 @@ export default function HeroSection() {
             <Button variant="outline" size="lg" asChild>
               <a
                 href="/Neha_Patil_Frontend_Developer-CV.pdf"
-                download="Neha_Patil_Resume.pdf"
+                download="Neha_Patil_Frontend_Developer-CV.pdf"
               >
                 <Download className="h-5 w-5 mr-2" />
                 Download CV
