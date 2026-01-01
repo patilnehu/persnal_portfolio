@@ -74,7 +74,7 @@ export default function ProjectsSection() {
                 key={index}
                 className="border-none shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2"
               >
-                <div className="aspect-video bg-gradient-to-br from-blue-100 to-purple-100 rounded-t-lg flex items-center justify-center">
+                <div className="aspect-video bg-linear-to-br from-blue-100 to-purple-100 rounded-t-lg flex items-center justify-center">
                   <Image
                     src={project.image || "/placeholder.svg"}
                     alt={project.title}

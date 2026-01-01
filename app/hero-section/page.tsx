@@ -26,7 +26,7 @@ export default function HeroSection() {
   return (
     <section
       id="home"
-      className="min-h-screen flex items-center justify-center pt-16 bg-gradient-to-br from-purple-50 to-pink-50 dark:from-gray-900 dark:to-purple-900 transition-colors duration-300"
+      className="min-h-screen flex items-center justify-center pt-16 bg-linear-to-br from-purple-50 to-pink-50 dark:from-gray-900 dark:to-purple-900 transition-colors duration-300"
     >
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <motion.div
