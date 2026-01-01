@@ -64,7 +64,10 @@ export default function HeroSection() {
               </Button>
             </Link>
             <Button variant="outline" size="lg" asChild>
-              <a href="/Neha_Patil_Resume.pdf" download="Neha_Patil_Resume.pdf">
+              <a
+                href="/Neha_Patil_Frontend_Developer-CV.pdf"
+                download="Neha_Patil_Resume.pdf"
+              >
                 <Download className="h-5 w-5 mr-2" />
                 Download CV
               </a>

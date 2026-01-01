@@ -49,6 +49,15 @@ export default function ProjectsSection() {
       code: "https://github.com/patilnehu/Restaurant-",
       live: "https://restaurant-patilnehus-projects.vercel.app/",
     },
+    {
+      title: "NGO Management Dashboard",
+      description:
+        "Built a role-based dashboard using Next.js and Context API with protected routes. Implemented Members and Events CRUD functionality with reusable forms and validation. Integrated API service layer with loading and error handling for better UX. Designed responsive UI using Tailwind CSS and deployed on Vercel.",
+      technologies: ["Typescript", "TailwindCSS", "Nextjs", "Vercel"],
+      image: "/NGO_Dashboard.png",
+      code: "https://github.com/patilnehu/NGO-Management-Dashboard",
+      live: "https://ngo-management-dashboard.vercel.app/login",
+    },
   ];
 
   return (
