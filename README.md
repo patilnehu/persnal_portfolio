@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🌐 Personal Portfolio – Neha Patil
 
-## Getting Started
+A modern personal portfolio website showcasing my work as a Frontend Developer, including projects, skills, and contact information.
 
-First, run the development server:
+🚀 Live Website
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+👉 https://persnal-portfolio-xi.vercel.app/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📌 About the Project
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This portfolio is designed to present my development skills and projects in a clean, minimal, and professional way. It helps recruiters and clients quickly understand:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Who I am
 
-## Learn More
+What I build
 
-To learn more about Next.js, take a look at the following resources:
+My technical skills
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+How to contact me
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+✨ Features
 
-## Deploy on Vercel
+🧑‍💻 Clean and modern UI
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📱 Fully responsive (mobile + desktop)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📂 Project showcase section
+
+🛠 Skills & technologies section
+
+📞 Contact section
+
+⚡ Fast performance (deployed on Vercel)
+
+🛠 Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Framework:  Next.js
+
+Styling: Tailwind CSS 
+
+Deployment: Vercel
+
+🎯 Purpose
+
+This project was built to:
+
+Showcase my frontend development skills
+
+Build an online presence
+
+Share my projects with recruiters
+
+Practice UI/UX design and responsive layouts
+
+📸 Screenshots
+
+<img width="1346" height="637" alt="image" src="https://github.com/user-attachments/assets/7d6c7858-0448-4999-9d4f-ba718b5ee2a7" />
