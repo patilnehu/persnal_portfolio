@@ -58,6 +58,16 @@ export default function ProjectsSection() {
       code: "https://github.com/patilnehu/NGO-Management-Dashboard",
       live: "https://ngo-management-dashboard.vercel.app/login",
     },
+
+    {
+      title: "Flowmate-- Your AI-powered Menstrual Wellness Companion 🌷",
+      description:
+        "Flowmate is a comprehensive wellness platform designed to help users understand and nurture their menstrual cycles. By combining cycle tracking with AI-driven guidance, yoga, and natural remedies, Flowmate empowers users to align their daily lives with their body's natural rhythms.",
+      technologies: ["Typescript", "TailwindCSS", "Nextjs"],
+      image: "/Flowmate.png",
+      code: "https://github.com/patilnehu/Flowmate.git",
+      live: "comming soon",
+    },
   ];
 
   return (
