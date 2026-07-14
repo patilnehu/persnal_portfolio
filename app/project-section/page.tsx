@@ -66,7 +66,7 @@ export default function ProjectsSection() {
       technologies: ["Typescript", "TailwindCSS", "Nextjs"],
       image: "/Flowmate.png",
       code: "https://github.com/patilnehu/Flowmate.git",
-      live: "comming soon",
+      live: "https://flowmate-git-master-patilnehus-projects.vercel.app",
     },
   ];
 
